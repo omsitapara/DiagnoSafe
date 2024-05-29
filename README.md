@@ -6,7 +6,7 @@ TRAINED MODELS: consists of all the trained models which are ready to use.
 
 NOTEBOOKS: consists of pyhton notebooks which contain the preprocessing as well as performance measures of the machine learning models.
 
-DIAGNOSAFE: This folder consists of all the php(Laravel) code. This code is responsible for serving the WebApp.
+DIAGNOSAFE: This folder consists of all the php(Laravel) and HTML CSS code. This code is responsible for serving the WebApp.
 
 FLASK: contains the flask file used to connect website to Machine Learning Models.
 
